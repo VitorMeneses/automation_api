@@ -20,7 +20,7 @@
     
 
 - Arquivo url.yml para configuração de ambiente      
-  Url: http://automationpractice.com/
+  Url: https://gorest.co.in/
   `Url que será utilizada para executar os teste(s) no ambiente de homologação ou Produção`
 
 **Features do Projeto**
